@@ -1,2 +1,0 @@
-# ToDoTest
-Öylesine bir tanım
